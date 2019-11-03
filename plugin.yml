@@ -1,0 +1,11 @@
+name: YCoin
+version: 1.0.0
+description: 코인 플러그인 (제작:염료)
+author: yeomryo@naver.com
+website: https://github.com/outstanding1301
+main: com.yeomryo.stock.Main
+commands:
+  코인:
+      description: 코인 플러그인 명령어 by 염료
+      permission: 
+      usage: /<command>
